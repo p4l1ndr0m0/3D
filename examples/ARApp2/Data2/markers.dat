@@ -20,12 +20,12 @@ SINGLE
 800.00
 
 
-hiro.pat
+papas_02.pat
 SINGLE
 800.00
 
 
-kanji.pat
+papas_03.pat
 SINGLE
 800.00
 
@@ -35,10 +35,6 @@ SINGLE
 800.00
 
 papas_05.pat
-SINGLE
-800.00
-
-pepcilindros_01.pat
 SINGLE
 800.00
 
@@ -62,6 +58,10 @@ tazos_01.pat
 SINGLE
 800.00
 
+tazos_05.pat
+SINGLE
+800.00
+
 tazos_02.pat
 SINGLE
 800.00
@@ -76,7 +76,7 @@ SINGLE
 800.00
 
 
-tazos_05.pat
+pepcilindros_01.pat
 SINGLE
 800.00
 

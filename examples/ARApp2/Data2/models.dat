@@ -3,7 +3,7 @@
 models/PAPAS_CODIGO_1946.obj
 0.0 0.0 0.0
 2.0 1.0 0.0 0.0
-10.016 10.016 10.016
+0.3 0.3 0.3
 MARKER 1
 
 models/CHEETOS.obj
@@ -60,7 +60,7 @@ models/KACANG.obj
 0.3 0.3 0.3
 MARKER 10
 
-models/BOTE_AVENA_QUAKER.scn
+models/BOTE_AVENA_QUAKER.obj
 0.0 0.0 0.0
 2.0 1.0 0.0 0.0
 0.3 0.3 0.3
@@ -72,7 +72,7 @@ models/INSPIREKA.obj
 0.3 0.3 0.3
 MARKER 12
 
-models/BOTE_AVENA_QUAKER.obj
+models/TAZO_CODIGO_9228.obj
 0.0 0.0 0.0
 2.0 1.0 0.0 0.0
 0.3 0.3 0.3
